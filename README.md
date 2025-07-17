@@ -39,8 +39,8 @@ Para isso, utilizei a técnica de **Transfer Learning**, que consiste em reaprov
 
 ### Gráfico de Acurácia e Perda
 
-![](CAMINHO_PARA_IMAGEM_ACURACIA)
-![](CAMINHO_PARA_IMAGEM_PERDA)
+![Acurácia do Modelo](model_accuracy.png)
+![Perda do Modelo](model_lost.png)
 
 ### 📊 Análise dos Gráficos
 
